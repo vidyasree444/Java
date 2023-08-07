@@ -1,0 +1,22 @@
+Question:2 Problem: Arithmetic Operations
+
+You are a programmer in a school. The mathematics teacher 
+has asked for your help to teach basic arithmetic operations 
+to students. Your task is to create a set of functions that 
+will do subtraction, multiplication, division,
+and find the remainder of two numbers.
+
+
+Sample Input:
+
+subtractNumbers(20, 5);
+multiplyNumbers(4, 5);
+divideNumbers(20, 4);
+findRemainder(10, 3);
+
+Sample Output:
+
+15
+20
+5.00
+1
